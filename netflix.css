@@ -532,7 +532,9 @@ color: white;
     }
 
 }
-
+.contact{
+    text-decoration: underline;
+}
 
 /* SMALL PHONES */
 
