@@ -17,7 +17,6 @@ nav{
     left: 0;
     position: fixed;
     text-align: center;
-    text-justify:auto;
     font-size: 18px;
     color: white;
     padding: 4px;
@@ -28,7 +27,7 @@ nav{
     background-color: #d50e29;
     border: none;
     width: 80px;
-    height: 30px;
+    height: 40px;
     margin-top: 10px;
     border-radius: 5px;
 }
