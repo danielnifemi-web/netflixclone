@@ -3,7 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+nav{
+    z-index: 1;
+    position: inherit;
+    top: 60px;
+    left: 0;
+    right: 0;
+}
 .top {
     z-index: 1;
     top: 0;
@@ -38,7 +44,7 @@
     width: 100%;
 }
 .head {
-    font-size: 80px;
+    font-size: 70px;
     font-weight: 700;
     color: white;
     text-align: center;
